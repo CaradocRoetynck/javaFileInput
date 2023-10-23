@@ -1,0 +1,10 @@
+another test to get full lines
+we will we will rock you rock you
+hopefully appending to this file.
+so points work in a line, but not alone
+
+how did 2 '$' get there?
+and now only one?
+
+again doubble $ 
+but that is nothing to worry about
